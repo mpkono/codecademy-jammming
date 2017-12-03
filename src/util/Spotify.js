@@ -1,6 +1,6 @@
 import {spotifyAuth} from './SpotifyAuth';
 
-const callbackUri = 'http://localhost:3000/';
+const callbackUri = 'https://mkjammmingz.surge.sh';
 const scopes = 'playlist-modify-public%20playlist-modify-private';
 let accessToken;
 
